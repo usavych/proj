@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Trix Service</title>
-  </head>
-  <body>
-    Contact
-  </body>
-</html>
+@extends('layouts.app')
+
+@section('content')
+<h1>Contact</h1>
+@endsection
